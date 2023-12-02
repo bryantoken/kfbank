@@ -1,6 +1,17 @@
 # KF Bank
 
-## Primeiros passos
-[[git clone https://github.com/bryantoken/kfbank.git
+## Clonando
+```
+git clone https://github.com/bryantoken/kfbank.git
 cd kfbank
-]]
+```
+
+## Instalação
+```
+npm install
+```
+
+## Executando
+```
+node index.js
+```
